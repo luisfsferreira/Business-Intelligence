@@ -23,4 +23,4 @@ Responder às seguintes questões de negócio através de visualizações e indi
 
 - `Relatorio_analise_vendas.pbix`: Ficheiro do Power BI com todos os dashboards e análises realizadas.
 
-- `imagens/`: Capturas de ecrã dos principais dashboards e visualizações desenvolvidas no Power BI.
+- `Imagens/`: Capturas de ecrã dos principais dashboards e visualizações desenvolvidas no Power BI.
